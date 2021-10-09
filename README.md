@@ -1,4 +1,4 @@
-# 19BCE1172_Instagram_API
+# 19BCE1172_Instagram_API<br>
 This is the work of S.M. Satya Sree Narayanan, Registration Number 19BCE1172. This Backend API was developed as a part of the task assigned by Appointy for internship selection.
 **All the key and value in the JSON FORMAT must be given only in lower-case**
 
