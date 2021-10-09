@@ -2,7 +2,7 @@
 This is the work of S.M. Satya Sree Narayanan, Registration Number 19BCE1172. This Backend API was developed as a part of the task assigned by Appointy for internship selection.<br><br>
 
 **The File Main.go contains the source code and testapi.exe is the associated exe file**<br><br>
-**All the key and value in the JSON FORMAT must be given only in lower-case**
+**All the key and value in the JSON FORMAT must be given only in lower-case and main_test.go contains the testing units**
 <br><br>
 **Operation-1: Creating a User**<br><br>
 When a "POST" request for the URL "/users" comes in the function user_handle gets fired up. Inside if there is a seperate if clause that deals with the "POST" request. The details of the user to be created is given in the Body of the JSON request. IT IS NECESSARY THAT THE "KEY" IN THE KEY VALUE PAIRS IN THE JSON REQUEST BE GIVEN IN LOWER-CASE AND THE KEYS BE THE EXACT SAME KEYS  GIVEN IN THE IMAGE 
